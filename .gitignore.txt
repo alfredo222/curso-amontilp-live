@@ -1,0 +1,5 @@
+lab/users/.terraform
+lab/users/.terraform.lock.hcl
+lab/s3/.terraform
+lab/s3/.terraform.lock.hcl
+lab/ec2/resources/keysday08
